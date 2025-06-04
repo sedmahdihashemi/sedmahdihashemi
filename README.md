@@ -1,10 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mahdi Hashemi</h1>
 <h3 align="center">A passionate frontend developer from Iran</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sedmahdihashemi&label=Profile%20views&color=0e75b6&style=flat" alt="sedmahdihashemi" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sedmahdihashemi" alt="sedmahdihashemi" /></a> </p>
-
+<div align="center"> <img style="margin: 10px" src="https://sora.chatgpt.com/g/gen_01jwy4dydpf6k9n12s1kchbae2" alt="CSS3" height="50" />
+</div>
 <h3 align="left">Languages and Tools:</h3>
 <div align="center">  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
@@ -31,12 +28,26 @@
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/mahdi-hashemi-86970a2a8/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mahdi-hashemi-86970a2a8/" height="30" width="40" /></a>
 <a href="https://instagram.com/mahdi_hashemi_web" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mahdi_hashemi_web" height="30" width="40" /></a>
+  <a href="https://t.me/sedmahdihashemi" target="blank">
+  <img align="center" src="https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white" alt="telegram" height="30" />
+</a>
+
 </p>
 
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sedmahdihashemi&label=Profile%20views&color=0e75b6&style=flat&theme=react&bg-color=1f2328" alt="sedmahdihashemi" /> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sedmahdihashemi&show_icons=true&locale=en&layout=compact" alt="sedmahdihashemi" /></p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sedmahdihashemi&theme=react&bg-color=1f2328" alt="sedmahdihashemi" /></a> </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sedmahdihashemi&show_icons=true&locale=en" alt="sedmahdihashemi" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sedmahdihashemi&" alt="sedmahdihashemi" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sedmahdihashemi&show_icons=true&locale=en&layout=compact&theme=react" alt="sedmahdihashemi" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sedmahdihashemi&show_icons=true&locale=en&theme=react" alt="sedmahdihashemi" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sedmahdihashemi&theme=react" alt="sedmahdihashemi" /></p>
+
+  <div align=center>
+    <a href="https://github.com/sedmahdihashemi/github-readme-stats">
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=sedmahdihashemi&theme=tokyo-night&bg_color=20232a&hide_border=true" width="100%"/>
+    </a>
+  </div>
