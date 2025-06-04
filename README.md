@@ -1,11 +1,11 @@
 
 <p align="center">
-  <img src="https://github.com/sedmahdihashemi/sedmahdihashemi/blob/main/animation.gif" width="300" height="300" alt="Lottie animation" />
+  
 </p>
 <div align="center"> 
    <img style="width: 50%; height: auto; margin: 10px 0;"  src="https://github.com/user-attachments/assets/da5fc5a9-4d61-4b93-a0aa-6b8bc84dd52a" alt="CSS3" height="250"  />
 </div>
-<h1 align="center">Hi 👋, I'm Mahdi Hashemi</h1>
+<h1 align="center" style="display:flex"><img src="https://github.com/user-attachments/assets/1022c403-1fc9-46b3-ad71-9b7588464d55" width="150" height="150" alt="Lottie animation" /> I'm Mahdi Hashemi</h1>
 
 
 <h3 align="left">Languages and Tools:</h3>
