@@ -1,7 +1,4 @@
 
-<div align="center"> 
-   <img width="300" src="https://github.com/user-attachments/assets/125cfcf8-d636-44c3-9f88-4403352b6fb6" alt="CSS3"   />
-</div>
 <h1 align="center" style="display:flex"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Edu+QLD+Hand&size=23&duration=5002&pause=1000&color=8BE9FD&background=1A1B27&center=true&vCenter=true&width=435&lines=i'm+Mahdi+Hashemi" alt="Typing SVG" /></a></h1>
 
 
