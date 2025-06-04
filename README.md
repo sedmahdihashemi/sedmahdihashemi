@@ -1,13 +1,8 @@
+
 <div align="center"> 
-   <img style="width: 50%; height: auto; margin: 10px 0;"  src="https://github.com/sedmahdihashemi/assets/gifs/Animation - 1749069013639.gif" alt="CSS3" height="250"  />
+   <img style="width: 100%; height: auto; margin: 10px 0;"  src="https://github.com/user-attachments/assets/125cfcf8-d636-44c3-9f88-4403352b6fb6" alt="CSS3" height="250"  />
 </div>
-<p align="center">
-  
-</p>
-<div align="center"> 
-   <img style="width: 50%; height: auto; margin: 10px 0;"  src="https://github.com/user-attachments/assets/da5fc5a9-4d61-4b93-a0aa-6b8bc84dd52a" alt="CSS3" height="250"  />
-</div>
-<h1 align="center" style="display:flex"><img src="https://github.com/user-attachments/assets/1022c403-1fc9-46b3-ad71-9b7588464d55" width="150" height="150" alt="Lottie animation" /> I'm Mahdi Hashemi</h1>
+<h1 align="center" style="display:flex"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Edu+QLD+Hand&size=23&duration=5002&pause=1000&color=8BE9FD&background=1A1B27&center=true&vCenter=true&width=435&lines=i'm+Mahdi+Hashemi" alt="Typing SVG" /></a></h1>
 
 
 <h3 align="left">Languages and Tools:</h3>
