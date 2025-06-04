@@ -1,4 +1,6 @@
-
+<div align="center"> 
+   <img style="width: 50%; height: auto; margin: 10px 0;"  src="https://github.com/sedmahdihashemi/assets/gifs/Animation - 1749069013639.gif" alt="CSS3" height="250"  />
+</div>
 <p align="center">
   
 </p>
